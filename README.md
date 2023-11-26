@@ -1,2 +1,4 @@
 # Big-Heavy
-Desings for additively manufactured high powered rockets.
+Designs for additively manufactured high powered rockets.
+
+![design](./images/onshape.png)
